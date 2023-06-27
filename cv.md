@@ -13,6 +13,7 @@ basic c++
 javascript
 basic react
 html, css, scss
+knowledge R
 
 ### Code example
 ` function updateLight(current) {
