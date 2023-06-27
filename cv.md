@@ -2,27 +2,29 @@
 ## Sergei Dukmas
 ## Junior frontend developer
 ### Contact information
-Phone: +7-981-962-06-81 
-Email: dukmas08@gmail.com 
+- Phone: +7-981-962-06-81 
+- Email: dukmas08@gmail.com
+- Github: github.com/Sergei342
 ### About myself
-I have bachelor's degree in apllicated lingustic and master's degree in trasnlation study. My way in coding, started with python and c++
+I have bachelor's degree in apllicated lingustic and master's degree in trasnlation study. 
+My way in coding, started with python and c++
 
 ### Skills 
-basic python 
-basic c++
-javascript
-basic react
-html, css, scss
-knowledge R
+- basic python 
+- basic c++
+- javascript
+- basic react
+- html, css, scss
+- knowledge R
 
 ### Code example
-` function updateLight(current) {
+`` function updateLight(current) {
   const lights = ['green', 'yellow', 'red', 'green'];
   for (el in lights) {
     if (lights[el] === current)
       return lights[1 + parseInt(el)]
   }
-} `
+} ``
 
 ### Courses
 1. Hexlet basic javascript
