@@ -1,13 +1,21 @@
 # rs school cv
 ## Sergei Dukmas
+![logo](https://github.com/Sergei342/chernovik/blob/gh-pages/68596501.jpeg)
 ## Junior frontend developer
 ### Contact information
 - Phone: +7-981-962-06-81 
 - Email: dukmas08@gmail.com
 - Github: github.com/Sergei342
 ### About myself
-I have bachelor's degree in apllicated lingustic and master's degree in trasnlation study. 
-My way in coding, started with python and c++
+My goal is to become a professional frontend and full stack developer. For the first time, I encountered programming at the university in the specialty of applied linguistics, but I didn’t really get interested. Worked in the field of marketing. But recently I rediscovered programming and realized that this is a goal that I will definitely achieve.
+
+### Education
+- Bachelor's degree in applied lingustic
+- Master's degree in translation study
+
+### Courses
+1. Hexlet basic javascript
+2. Stepik basic html, css
 
 ### Skills 
 - basic python 
@@ -25,13 +33,6 @@ My way in coding, started with python and c++
       return lights[1 + parseInt(el)]
   }
 } ``
-
-### Courses
-1. Hexlet basic javascript
-2. Stepik basic html, css
-
-
-
 
 ### Languages
 1. Russian native
